@@ -2,10 +2,16 @@
   "name": "comp308-w2018-less1",
   "version": "1.0.0",
   "description": "Node Express tutorial",
+  "repository": {
+    "url": "https://github.com/Snorock/Comp308W2018L1.git"
+  },
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Snorock",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
 }
